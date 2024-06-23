@@ -1,0 +1,25 @@
+
+Adds configurable options to adjust the camera's default parameters and more
+
+[h1]Config Options[/h1]
+[list]
+[*]Default view distance (Camera default is 30)
+[*]Minimum view distance (Camera default is 15)
+[*]Maximum view distance (Camera default is 50)
+[*]Pitch Angle Method (Camera default is Variable)
+(Hybrid maintains the default variable pitch range and is static beyond the default min and max distances)
+[*]Minimum distance pitch (Camera default is 30)
+[*]Maximum distance pitch (Camera default is 60)
+[*]Zoom step amount / speed (Camera default is 4)
+[*]Overhead Toggle Options (90 pitch, Max Distance, Both)
+[*]Overhead toggle key (default MiddleMouse)
+[*]Spectator toggle key (default F11)
+[*]Partial Rotation - Hold force inspect (default ALT) + Q or E, to rotate by 22.5 degrees instead of 45
+[/list]
+[h1]Features[/h1]
+[list]
+[*]Improves the speed and smoothness of zooming with the mouse scroll wheel
+[*]Disables all focal point offsets; Fuel Weaver victory, boats, etc
+[*]Disables clouds
+
+[url=http://steamcommunity.com/sharedfiles/filedetails/?id=1172725923]Don't Starve version[/url]
